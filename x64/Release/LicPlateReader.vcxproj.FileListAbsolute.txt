@@ -1,0 +1,1 @@
+C:\LicPlateReader\x64\Release\LicPlateReader.exe
